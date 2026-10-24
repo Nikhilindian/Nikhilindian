@@ -1,6 +1,7 @@
 <div align="center">
 
-# Hi there, I'm Nikhil 👋
+<img src="header.svg" alt="Hi there, I'm Nikhil 👋" width="580" />
+
 ### 💻 Full-Stack Web Developer & UI/UX Craftsman
 
 <p align="center">
