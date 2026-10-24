@@ -68,8 +68,9 @@
 
 ---
 
-### 📂 Featured Focus Areas
+### 📂 Featured Projects & Open Source
 
+- ⚡ **[developer-cheatvault](https://github.com/Nikhilindian/developer-cheatvault)** — Battle-tested cheatsheets, Git emergency lifesavers, JS/TS one-liners, React patterns & System Design essentials. ⭐ *(Check it out & star!)*
 - 🛍️ **Modern E-Commerce Platforms**: Designing fluid product catalogs, intuitive checkouts, and high-performance interactive storefronts.
 - ⚡ **Full-Stack Web Architectures**: Building end-to-end applications with secure API integrations and responsive mobile-first interfaces.
 - 💻 **Developer Utilities**: Creating CLI tools and automated workflow scripts to optimize development cycles.
