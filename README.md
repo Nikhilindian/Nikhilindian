@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="header.svg" alt="Hi there, I'm Nikhil 👋" width="580" />
+<img src="header.svg" alt="Hi there, I'm Nikhil " width="580" />
 
 ### 💻 Full-Stack Web Developer & UI/UX Craftsman
 
